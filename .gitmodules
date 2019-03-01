@@ -1,0 +1,6 @@
+[submodule "front-end"]
+	path = front-end
+	url = git@github.com:adupuis/tam-tracker-front-end.git
+[submodule "back-end"]
+	path = back-end
+	url = git@github.com:adupuis/tam-tracker-back-end.git
